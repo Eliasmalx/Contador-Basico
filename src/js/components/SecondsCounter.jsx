@@ -40,6 +40,7 @@ function Counter() {
                 <span>{format(hours)}:</span>
                 <span>{format(minutes)}:</span>
                 <span>{format(seconds)}</span>
+                
             </div>
 
             {/* 🎛 BOTONES */}
